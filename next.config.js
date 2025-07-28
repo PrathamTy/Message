@@ -9,6 +9,7 @@ const nextConfig = {
         hostname: 'picsum.photos',
       },
     ],
+    domains: ['i.pravatar.cc', 'picsum.photos'],
   },
 };
 
